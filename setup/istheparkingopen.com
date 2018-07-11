@@ -1,6 +1,6 @@
 server{
 	listen 80;
-	server_name istheparkingopen.com;
+	server_name istheparkingopen.com www.istheparkingopen.com;
 
 	location / {
 		proxy_pass http://localhost:3000;

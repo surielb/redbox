@@ -3,5 +3,15 @@ html
   head
     title= title
     link(rel='stylesheet', href='/stylesheets/style.css')
+    meta(name="viewport",content="width=device-width")
+    meta(name='apple-mobile-web-app-capable', content='yes')
+    meta(name='mobile-web-app-capable', content='yes')
+    meta(property="og:site_name" content="http://www.istheparkingopen.com")
+    meta(property="og:url" content="http://www.istheparkingopen.com")
+    meta(property="og:title" content=title)
+    meta(property="og:image" content="http://www.istheparkingopen.com/images/redbox-logo.png")
+    meta(property="og:description" content="The mighty parking red box")
+
+
   body
     block content
