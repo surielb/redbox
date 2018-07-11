@@ -1,0 +1,25 @@
+{
+  "name": "redbox",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "config": "^1.30.0",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "express": "~4.16.0",
+    "http-errors": "~1.6.2",
+    "js-yaml": "^3.12.0",
+    "less-middleware": "~2.2.1",
+    "mongoose": "^5.2.2",
+    "morgan": "~1.9.0",
+    "npm": "^6.1.0",
+    "pug": "2.0.0-beta11"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-register": "^6.26.0"
+  }
+}
