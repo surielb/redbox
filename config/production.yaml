@@ -1,1 +1,1 @@
-mongo: mongodb://ip-172-31-38-225.ec2.internal/redbox
+mongo: mongodb://ip-172-31-38-225.ec2.internal:27017/redbox
