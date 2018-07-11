@@ -14,7 +14,7 @@ module.exports = (app)=>{
     });
 
     app.put('/status/:state',(req,res)=>{
-        state.findOneAndUpdate({},{state:!!req.params.state},{upsert:true}).exec().then(s=>{
+        state.findOneAndUpdate({},{state:'0'!==req.params.state},{upsert:true}).exec().then(s=>{
             res.json(s);
         }).catch(e=>{
             res.status(400).json({error:e});
