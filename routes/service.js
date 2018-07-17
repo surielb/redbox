@@ -5,7 +5,7 @@ import {licenses} from '../modules/licenses'
 
 module.exports = (app)=>{
     app.get('/status', (req, res)=> {
-        state.findOne().exec().then(s=>{
+        state.fetch().then(s=>{
             res.json(s);
         }).catch(e=>{
             res.status(400).json({error:e});

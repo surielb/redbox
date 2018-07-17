@@ -8,3 +8,10 @@ export const state = mongoose.model("State",new Schema({
         index: true
     }
 }));
+state.fetch =  ()=>{
+    return new Promise((success,error)=>{
+        state.findOne().exec().then(s=>{
+            success(Object.assign(s||{},{next: parseInt(Math.random() * 3 * 60 * 60  ),for:parseInt(Math.random() *60 *60)}));
+        }).catch(error);
+    }) ;
+};

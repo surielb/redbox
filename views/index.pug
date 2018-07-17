@@ -2,4 +2,10 @@ extends layout
 
 block content
   div.content
-    h1=state?'Yes': 'No'
+    div.main=state?'Yes': 'No'
+    if(!state)
+      div.predict
+        |We predict it will be open in&nbsp;
+        strong=when
+        |&nbsp; for&nbsp;
+        strong=time
