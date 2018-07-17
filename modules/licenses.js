@@ -4,7 +4,7 @@ export const licenses = {
         "last_name": "Bitran",
         "car_type": "Alfa Romeo Giulietta",
         "license": 1000633,
-        "phone": "0052-3400129",
+        "phone": "052-3400129",
         "department": "R&D"
     },
     "1007932": {
@@ -12,7 +12,7 @@ export const licenses = {
         "last_name": "Taylor",
         "car_type": "Hyundai i30",
         "license": 1007932,
-        "phone": "0054-5487017",
+        "phone": "054-5487017",
         "department": "HR"
     },
     "1021671": {
@@ -20,7 +20,7 @@ export const licenses = {
         "last_name": "Navri",
         "car_type": "Siat Ibiza",
         "license": 1021671,
-        "phone": "0050-2611968",
+        "phone": "050-2611968",
         "department": ""
     },
     "1057552": {
@@ -28,7 +28,7 @@ export const licenses = {
         "last_name": "Anconina",
         "car_type": "Toyota Yaris",
         "license": 1057552,
-        "phone": "0054-2262081",
+        "phone": "054-2262081",
         "department": "Data"
     },
     "1070211": {
@@ -36,7 +36,7 @@ export const licenses = {
         "last_name": "Silbert",
         "car_type": "Hyundai i20",
         "license": 1070211,
-        "phone": "00525918844",
+        "phone": "0525918844",
         "department": "Services &Solutions"
     },
     "1124760": {
@@ -68,7 +68,7 @@ export const licenses = {
         "last_name": "Shutzman",
         "car_type": "volkswagen polo",
         "license": 1232671,
-        "phone": "0050-7534918",
+        "phone": "050-7534918",
         "department": "Marketing"
     },
     "1241572": {
@@ -84,7 +84,7 @@ export const licenses = {
         "last_name": "Stern",
         "car_type": "Renault Megane",
         "license": 1266635,
-        "phone": "0050-9202939",
+        "phone": "050-9202939",
         "department": "CC"
     },
     "1327771": {
@@ -92,7 +92,7 @@ export const licenses = {
         "last_name": "Ariad",
         "car_type": "Volkswagen Polo",
         "license": 1327771,
-        "phone": "0054-5651898",
+        "phone": "054-5651898",
         "department": "Marketing"
     },
     "1340214": {
@@ -100,7 +100,7 @@ export const licenses = {
         "last_name": "Pincus",
         "car_type": "Renault Megane",
         "license": 1340214,
-        "phone": "0053-6230307",
+        "phone": "053-6230307",
         "department": "R&D"
     },
     "1450328": {
@@ -108,7 +108,7 @@ export const licenses = {
         "last_name": "Chipetine",
         "car_type": "SYM",
         "license": 1450328,
-        "phone": "0052-5433655",
+        "phone": "052-5433655",
         "department": "Finance"
     },
     "1510373": {
@@ -124,7 +124,7 @@ export const licenses = {
         "last_name": "Almog",
         "car_type": "Kia Picanto",
         "license": 1562585,
-        "phone": "0052-4653240",
+        "phone": "052-4653240",
         "department": "Risk"
     },
     "1671632": {
@@ -132,7 +132,7 @@ export const licenses = {
         "last_name": "Koren",
         "car_type": "Hyundai i30",
         "license": 1671632,
-        "phone": "0052-7864104",
+        "phone": "052-7864104",
         "department": "Payments"
     },
     "1701765": {
@@ -148,7 +148,7 @@ export const licenses = {
         "last_name": "Leshem",
         "car_type": "Suzuki Swift",
         "license": 1729878,
-        "phone": "0050-7917303",
+        "phone": "050-7917303",
         "department": "Treasury"
     },
     "1734312": {
@@ -156,7 +156,7 @@ export const licenses = {
         "last_name": "Gershoni",
         "car_type": "Volkswagen Polo",
         "license": 1734312,
-        "phone": "0054-4468131",
+        "phone": "054-4468131",
         "department": "GBT"
     },
     "1760565": {
@@ -172,7 +172,7 @@ export const licenses = {
         "last_name": "Gordon",
         "car_type": "Mitsubishi Space Star",
         "license": 1778831,
-        "phone": "0054-2443960",
+        "phone": "054-2443960",
         "department": "KM"
     },
     "1845764": {
@@ -188,7 +188,7 @@ export const licenses = {
         "last_name": "Gross",
         "car_type": "Ford Focus Station",
         "license": 1898476,
-        "phone": "0052-6368091",
+        "phone": "052-6368091",
         "department": "R&D"
     },
     "1928838": {
@@ -196,7 +196,7 @@ export const licenses = {
         "last_name": "Katz",
         "car_type": "Polo",
         "license": 1928838,
-        "phone": "0050-7155680",
+        "phone": "050-7155680",
         "department": "BizOps"
     },
     "1933732": {
@@ -204,7 +204,7 @@ export const licenses = {
         "last_name": "Levy",
         "car_type": "Mitsubishi",
         "license": 1933732,
-        "phone": "0053-6223451",
+        "phone": "053-6223451",
         "department": "Risk"
     },
     "1939414": {
@@ -212,7 +212,7 @@ export const licenses = {
         "last_name": "Dror",
         "car_type": "Mitsubishi Lancer",
         "license": 1939414,
-        "phone": "0052-4688943",
+        "phone": "052-4688943",
         "department": "MKT"
     },
     "2071276": {
@@ -220,7 +220,7 @@ export const licenses = {
         "last_name": "Angel",
         "car_type": "Ford Focus",
         "license": 2071276,
-        "phone": "0054-751-4201",
+        "phone": "054-751-4201",
         "department": ""
     },
     "2117311": {
@@ -236,7 +236,7 @@ export const licenses = {
         "last_name": "Piker",
         "car_type": "Hyundai i20",
         "license": 2129411,
-        "phone": "0054-5714484",
+        "phone": "054-5714484",
         "department": "Marketing"
     },
     "2171878": {
@@ -244,7 +244,7 @@ export const licenses = {
         "last_name": "Ben Aroya",
         "car_type": "Suzuki SX",
         "license": 2171878,
-        "phone": "0052-7722742",
+        "phone": "052-7722742",
         "department": "MKT"
     },
     "2175472": {
@@ -252,7 +252,7 @@ export const licenses = {
         "last_name": "Gonshorowitz",
         "car_type": "Diatzu Syrion",
         "license": 2175472,
-        "phone": "0054-9950372",
+        "phone": "054-9950372",
         "department": "Marketing"
     },
     "2197763": {
@@ -260,7 +260,7 @@ export const licenses = {
         "last_name": "Weiss",
         "car_type": "Mitsubishi Lancer",
         "license": 2197763,
-        "phone": "0054-6906899",
+        "phone": "054-6906899",
         "department": "P&L"
     },
     "2243869": {
@@ -268,7 +268,7 @@ export const licenses = {
         "last_name": "Neuhaus",
         "car_type": "Mazda 2",
         "license": 2243869,
-        "phone": "0053-529-7572",
+        "phone": "053-529-7572",
         "department": "PAD"
     },
     "2265211": {
@@ -276,7 +276,7 @@ export const licenses = {
         "last_name": "Butnau",
         "car_type": "Hundai i30",
         "license": 2265211,
-        "phone": "0054-2566165",
+        "phone": "054-2566165",
         "department": ""
     },
     "2276433": {
@@ -292,7 +292,7 @@ export const licenses = {
         "last_name": "Ravid",
         "car_type": "Subaru XV",
         "license": 2295739,
-        "phone": "0052-6576080",
+        "phone": "052-6576080",
         "department": "PnL"
     },
     "2327472": {
@@ -300,7 +300,7 @@ export const licenses = {
         "last_name": "Gross",
         "car_type": "daihatsu sirion",
         "license": 2327472,
-        "phone": "0052-3346663",
+        "phone": "052-3346663",
         "department": "R&D"
     },
     "2349130": {
@@ -308,7 +308,7 @@ export const licenses = {
         "last_name": "Valladares",
         "car_type": "Mazda 3",
         "license": 2349130,
-        "phone": "0050-2522248",
+        "phone": "050-2522248",
         "department": "CC"
     },
     "2363570": {
@@ -316,7 +316,7 @@ export const licenses = {
         "last_name": "Sandler",
         "car_type": "Toyota Corolla",
         "license": 2363570,
-        "phone": "0054-7362099",
+        "phone": "054-7362099",
         "department": "Treasury (Finance)"
     },
     "2365072": {
@@ -324,7 +324,7 @@ export const licenses = {
         "last_name": "Tzror",
         "car_type": "Kia Ceed",
         "license": 2365072,
-        "phone": "0054-4237515",
+        "phone": "054-4237515",
         "department": "Internal Control (Finance)"
     },
     "2418857": {
@@ -332,7 +332,7 @@ export const licenses = {
         "last_name": "Pimonov",
         "car_type": "Peugeot 307",
         "license": 2418857,
-        "phone": "0054-5504633",
+        "phone": "054-5504633",
         "department": "CAD"
     },
     "2468773": {
@@ -340,7 +340,7 @@ export const licenses = {
         "last_name": "Alpert",
         "car_type": "Hyundai  I20",
         "license": 2468773,
-        "phone": "0052-2202789",
+        "phone": "052-2202789",
         "department": "Finance"
     },
     "2533931": {
@@ -348,7 +348,7 @@ export const licenses = {
         "last_name": "Koubi",
         "car_type": "Hyundai i20",
         "license": 2533931,
-        "phone": "0052-2200542",
+        "phone": "052-2200542",
         "department": "Product"
     },
     "2554473": {
@@ -364,7 +364,7 @@ export const licenses = {
         "last_name": "Schoppik",
         "car_type": "Hyundai i20",
         "license": 2643931,
-        "phone": "0054-6531777",
+        "phone": "054-6531777",
         "department": "MKT"
     },
     "2698011": {
@@ -372,7 +372,7 @@ export const licenses = {
         "last_name": "Yona",
         "car_type": "Hyundai i20",
         "license": 2698011,
-        "phone": "00524-370387",
+        "phone": "0524-370387",
         "department": "Inrule"
     },
     "2738138": {
@@ -380,7 +380,7 @@ export const licenses = {
         "last_name": "Szejnberg",
         "car_type": "Skoda Citigo",
         "license": 2738138,
-        "phone": "0054-7174709",
+        "phone": "054-7174709",
         "department": "P&L"
     },
     "2757164": {
@@ -388,7 +388,7 @@ export const licenses = {
         "last_name": "Varod",
         "car_type": "Seat",
         "license": 2757164,
-        "phone": "0054-4326691",
+        "phone": "054-4326691",
         "department": "R&D"
     },
     "2770576": {
@@ -404,7 +404,7 @@ export const licenses = {
         "last_name": "Kopeikin",
         "car_type": "Suzuki swift",
         "license": 2777913,
-        "phone": "00545-309702",
+        "phone": "0545-309702",
         "department": "R&D"
     },
     "2787185": {
@@ -412,7 +412,7 @@ export const licenses = {
         "last_name": "Ron",
         "car_type": "KIA Picanto",
         "license": 2787185,
-        "phone": "0054-2849099",
+        "phone": "054-2849099",
         "department": "MKT"
     },
     "2787576": {
@@ -420,7 +420,7 @@ export const licenses = {
         "last_name": "Sedov",
         "car_type": "Ford Focus",
         "license": 2787576,
-        "phone": "0054-280-90-32",
+        "phone": "054-280-90-32",
         "department": "CC"
     },
     "2810276": {
@@ -436,7 +436,7 @@ export const licenses = {
         "last_name": "Shlomovich",
         "car_type": "Nissan micra",
         "license": 2823154,
-        "phone": "0054-2878478",
+        "phone": "054-2878478",
         "department": "R&D"
     },
     "2900330": {
@@ -460,7 +460,7 @@ export const licenses = {
         "last_name": "Rodrik",
         "car_type": "subaru",
         "license": 2956023,
-        "phone": "0054-6622066",
+        "phone": "054-6622066",
         "department": "Data"
     },
     "2975669": {
@@ -468,7 +468,7 @@ export const licenses = {
         "last_name": "Gross",
         "car_type": "Ford Focus",
         "license": 2975669,
-        "phone": "0052-6368091",
+        "phone": "052-6368091",
         "department": "R&D"
     },
     "3065332": {
@@ -476,7 +476,7 @@ export const licenses = {
         "last_name": "Shtulman",
         "car_type": "Chevrolet Cruze",
         "license": 3065332,
-        "phone": "0052-2515171",
+        "phone": "052-2515171",
         "department": "R&D"
     },
     "3075237": {
@@ -484,7 +484,7 @@ export const licenses = {
         "last_name": "Regev Lalush",
         "car_type": "Toyota",
         "license": 3075237,
-        "phone": "0050-7060037",
+        "phone": "050-7060037",
         "department": ""
     },
     "3103539": {
@@ -492,7 +492,7 @@ export const licenses = {
         "last_name": "Marks",
         "car_type": "Opel Astra",
         "license": 3103539,
-        "phone": "0054-2399626",
+        "phone": "054-2399626",
         "department": "Marketing"
     },
     "3137160": {
@@ -500,7 +500,7 @@ export const licenses = {
         "last_name": "Qaddomi",
         "car_type": "Honda Accord",
         "license": 3137160,
-        "phone": "0054-595-4866",
+        "phone": "054-595-4866",
         "department": "CAD-CC"
     },
     "3145054": {
@@ -508,7 +508,7 @@ export const licenses = {
         "last_name": "Talmor",
         "car_type": "Nissan Micra (Sonic)",
         "license": 3145054,
-        "phone": "0054-636-8765",
+        "phone": "054-636-8765",
         "department": "R&D"
     },
     "3169852": {
@@ -516,7 +516,7 @@ export const licenses = {
         "last_name": "Zvang",
         "car_type": "Kia Picanto",
         "license": 3169852,
-        "phone": "0052-2210645",
+        "phone": "052-2210645",
         "department": "Marketing"
     },
     "3175355": {
@@ -532,7 +532,7 @@ export const licenses = {
         "last_name": "Harel",
         "car_type": "",
         "license": 3199431,
-        "phone": "0052-8549215",
+        "phone": "052-8549215",
         "department": "Product"
     },
     "3220365": {
@@ -540,7 +540,7 @@ export const licenses = {
         "last_name": "Pincus",
         "car_type": "Hyundai Accent",
         "license": 3220365,
-        "phone": "0053-6230307",
+        "phone": "053-6230307",
         "department": "R&D"
     },
     "3232363": {
@@ -548,7 +548,7 @@ export const licenses = {
         "last_name": "Haviv",
         "car_type": "SUBARU",
         "license": 3232363,
-        "phone": "0052-4442089",
+        "phone": "052-4442089",
         "department": "RnD"
     },
     "3262034": {
@@ -564,7 +564,7 @@ export const licenses = {
         "last_name": "Rintzler",
         "car_type": "Toyota Corola RUNX",
         "license": 3272556,
-        "phone": "0054-3072878",
+        "phone": "054-3072878",
         "department": "Direct"
     },
     "3356011": {
@@ -588,7 +588,7 @@ export const licenses = {
         "last_name": "Wainberg",
         "car_type": "Skoda Fabia",
         "license": 3508667,
-        "phone": "0050-8121604",
+        "phone": "050-8121604",
         "department": "Risk"
     },
     "3509231": {
@@ -620,7 +620,7 @@ export const licenses = {
         "last_name": "Hoffmann",
         "car_type": "DAIHATSU",
         "license": 3570563,
-        "phone": "0052-4042782",
+        "phone": "052-4042782",
         "department": "Program"
     },
     "3613238": {
@@ -628,7 +628,7 @@ export const licenses = {
         "last_name": "Zahavi",
         "car_type": "Seat Ibiza",
         "license": 3613238,
-        "phone": "0054-5256265",
+        "phone": "054-5256265",
         "department": "Risk"
     },
     "3619773": {
@@ -644,7 +644,7 @@ export const licenses = {
         "last_name": "Sella",
         "car_type": "hyundai getz",
         "license": 3664661,
-        "phone": "0054-4472060",
+        "phone": "054-4472060",
         "department": "GBT"
     },
     "3678923": {
@@ -660,7 +660,7 @@ export const licenses = {
         "last_name": "Zafrir",
         "car_type": "Mazda 3",
         "license": 3679513,
-        "phone": "0054-5424530",
+        "phone": "054-5424530",
         "department": "DBA"
     },
     "3705330": {
@@ -708,7 +708,7 @@ export const licenses = {
         "last_name": "Farhi",
         "car_type": "Toyota Prius",
         "license": 3892374,
-        "phone": "0050-8387613",
+        "phone": "050-8387613",
         "department": "PAD"
     },
     "3915234": {
@@ -732,7 +732,7 @@ export const licenses = {
         "last_name": "Shtulman",
         "car_type": "Mazda 2",
         "license": 3992671,
-        "phone": "0052-2515171",
+        "phone": "052-2515171",
         "department": "R&D"
     },
     "3998755": {
@@ -740,7 +740,7 @@ export const licenses = {
         "last_name": "Pogreb",
         "car_type": "Mazda 3",
         "license": 3998755,
-        "phone": "0054-7477450",
+        "phone": "054-7477450",
         "department": "Risk"
     },
     "4002978": {
@@ -756,7 +756,7 @@ export const licenses = {
         "last_name": "Tuchman",
         "car_type": "Mazda 3",
         "license": 4052669,
-        "phone": "0054-7951617",
+        "phone": "054-7951617",
         "department": "CAD"
     },
     "4065238": {
@@ -764,7 +764,7 @@ export const licenses = {
         "last_name": "Atme",
         "car_type": "Seat Ibiza",
         "license": 4065238,
-        "phone": "0050-8319164",
+        "phone": "050-8319164",
         "department": "CC"
     },
     "4074868": {
@@ -772,7 +772,7 @@ export const licenses = {
         "last_name": "Kaspit",
         "car_type": "Nissan",
         "license": 4074868,
-        "phone": "0054-5872711",
+        "phone": "054-5872711",
         "department": ""
     },
     "4106755": {
@@ -788,7 +788,7 @@ export const licenses = {
         "last_name": "Goltz",
         "car_type": "Outlander",
         "license": 4111237,
-        "phone": "0052-2643929",
+        "phone": "052-2643929",
         "department": "Product"
     },
     "4145531": {
@@ -796,7 +796,7 @@ export const licenses = {
         "last_name": "Koubi",
         "car_type": "Mitsubishi outlander",
         "license": 4145531,
-        "phone": "0052-2200542",
+        "phone": "052-2200542",
         "department": "Product"
     },
     "4202311": {
@@ -804,7 +804,7 @@ export const licenses = {
         "last_name": "Zargari",
         "car_type": "Hyundai i20",
         "license": 4202311,
-        "phone": "0054-3142446",
+        "phone": "054-3142446",
         "department": "R&D"
     },
     "4204051": {
@@ -820,7 +820,7 @@ export const licenses = {
         "last_name": "Boaron",
         "car_type": "undaiy gets",
         "license": 4223414,
-        "phone": "0050-6322840",
+        "phone": "050-6322840",
         "department": ""
     },
     "4243011": {
@@ -828,7 +828,7 @@ export const licenses = {
         "last_name": "Nuri",
         "car_type": "Hyundai i20",
         "license": 4243011,
-        "phone": "0054-5893553",
+        "phone": "054-5893553",
         "department": "Risk"
     },
     "4250039": {
@@ -836,7 +836,7 @@ export const licenses = {
         "last_name": "Melamed",
         "car_type": "Peugeot",
         "license": 4250039,
-        "phone": "0052-4674377",
+        "phone": "052-4674377",
         "department": "Program"
     },
     "4301956": {
@@ -876,7 +876,7 @@ export const licenses = {
         "last_name": "Friedman",
         "car_type": "Hyundai i30cw",
         "license": 4504211,
-        "phone": "0052-3483018",
+        "phone": "052-3483018",
         "department": "Tech"
     },
     "4519929": {
@@ -884,7 +884,7 @@ export const licenses = {
         "last_name": "Balagyozian",
         "car_type": "Nissan Terrano",
         "license": 4519929,
-        "phone": "0050-8113772",
+        "phone": "050-8113772",
         "department": "R&D"
     },
     "4520473": {
@@ -892,7 +892,7 @@ export const licenses = {
         "last_name": "Gintsiak",
         "car_type": "Peugeot 107",
         "license": 4520473,
-        "phone": "0054-2425840",
+        "phone": "054-2425840",
         "department": "PAD"
     },
     "4520954": {
@@ -932,7 +932,7 @@ export const licenses = {
         "last_name": "Sofer",
         "car_type": "Audi A3",
         "license": 4577780,
-        "phone": "0054-6987796",
+        "phone": "054-6987796",
         "department": "R&D"
     },
     "4614333": {
@@ -948,7 +948,7 @@ export const licenses = {
         "last_name": "Leshem",
         "car_type": "Hyundai i30",
         "license": 4623437,
-        "phone": "0050-7917303",
+        "phone": "050-7917303",
         "department": "Treasury"
     },
     "4634352": {
@@ -964,7 +964,7 @@ export const licenses = {
         "last_name": "Zvang",
         "car_type": "Kia Sportage",
         "license": 4648433,
-        "phone": "0052-2210645",
+        "phone": "052-2210645",
         "department": "Marketing"
     },
     "4651433": {
@@ -972,7 +972,7 @@ export const licenses = {
         "last_name": "Brostowsky",
         "car_type": "Kia Ceed",
         "license": 4651433,
-        "phone": "0052-8322310",
+        "phone": "052-8322310",
         "department": "R&D"
     },
     "4653034": {
@@ -980,7 +980,7 @@ export const licenses = {
         "last_name": "Gold",
         "car_type": "Opel Corsa",
         "license": 4653034,
-        "phone": "0054-3538004",
+        "phone": "054-3538004",
         "department": "BizOps"
     },
     "4683571": {
@@ -996,7 +996,7 @@ export const licenses = {
         "last_name": "Gurfinkel",
         "car_type": "Toyota Verso",
         "license": 4722374,
-        "phone": "0052-3236588",
+        "phone": "052-3236588",
         "department": "R&D"
     },
     "4723139": {
@@ -1004,7 +1004,7 @@ export const licenses = {
         "last_name": "Weissmann",
         "car_type": "Peugeot 208",
         "license": 4723139,
-        "phone": "0052-8084748",
+        "phone": "052-8084748",
         "department": "R&D"
     },
     "4768311": {
@@ -1012,7 +1012,7 @@ export const licenses = {
         "last_name": "Ginis",
         "car_type": "Hyundai i30",
         "license": 4768311,
-        "phone": "0054-7556825",
+        "phone": "054-7556825",
         "department": "R&D"
     },
     "4784979": {
@@ -1028,7 +1028,7 @@ export const licenses = {
         "last_name": "Dayan",
         "car_type": "Hyundai i10",
         "license": 4788931,
-        "phone": "0052-5434524",
+        "phone": "052-5434524",
         "department": "CC"
     },
     "4789636": {
@@ -1044,7 +1044,7 @@ export const licenses = {
         "last_name": "Raivit",
         "car_type": "Mazda 3 / Toyota Verso",
         "license": 4792458,
-        "phone": "0058-5656322",
+        "phone": "058-5656322",
         "department": "IT-OPS"
     },
     "4794112": {
@@ -1068,7 +1068,7 @@ export const licenses = {
         "last_name": "Ibrahim",
         "car_type": "Kia Sportage",
         "license": 4838079,
-        "phone": "0058-6677667",
+        "phone": "058-6677667",
         "department": "CC"
     },
     "4843132": {
@@ -1076,7 +1076,7 @@ export const licenses = {
         "last_name": "Feldman",
         "car_type": "Toyota Yaris",
         "license": 4843132,
-        "phone": "0054-3233331",
+        "phone": "054-3233331",
         "department": "R&D"
     },
     "4851862": {
@@ -1084,7 +1084,7 @@ export const licenses = {
         "last_name": "Padler",
         "car_type": "Hyundai getz",
         "license": 4851862,
-        "phone": "0052-3450252",
+        "phone": "052-3450252",
         "department": "CC"
     },
     "4911011": {
@@ -1092,7 +1092,7 @@ export const licenses = {
         "last_name": "Darschevitz",
         "car_type": "Mercedes",
         "license": 4911011,
-        "phone": "0050-2222204",
+        "phone": "050-2222204",
         "department": "P&L"
     },
     "4926951": {
@@ -1100,7 +1100,7 @@ export const licenses = {
         "last_name": "Tabakin",
         "car_type": "Mazda",
         "license": 4926951,
-        "phone": "0054-4883885",
+        "phone": "054-4883885",
         "department": "Operations"
     },
     "4940565": {
@@ -1108,7 +1108,7 @@ export const licenses = {
         "last_name": "Fridrich",
         "car_type": "Pegeut 207",
         "license": 4940565,
-        "phone": "0052-6404798",
+        "phone": "052-6404798",
         "department": "CC"
     },
     "4940676": {
@@ -1132,7 +1132,7 @@ export const licenses = {
         "last_name": "Anconina",
         "car_type": "Totyota Corola",
         "license": 4973530,
-        "phone": "0054-2262081",
+        "phone": "054-2262081",
         "department": "Data"
     },
     "4977375": {
@@ -1140,7 +1140,7 @@ export const licenses = {
         "last_name": "Zvang",
         "car_type": "Ford Focus",
         "license": 4977375,
-        "phone": "0052-2210645",
+        "phone": "052-2210645",
         "department": "Marketing"
     },
     "4985654": {
@@ -1156,7 +1156,7 @@ export const licenses = {
         "last_name": "Rock",
         "car_type": "Skoda",
         "license": 4989034,
-        "phone": "0054-6320517",
+        "phone": "054-6320517",
         "department": "Risk"
     },
     "4990352": {
@@ -1172,7 +1172,7 @@ export const licenses = {
         "last_name": "Farhi",
         "car_type": "Toyota Prius",
         "license": 5003674,
-        "phone": "0050-8387613",
+        "phone": "050-8387613",
         "department": "PAD"
     },
     "5012668": {
@@ -1180,7 +1180,7 @@ export const licenses = {
         "last_name": "Polonsky",
         "car_type": "Honda Civic",
         "license": 5012668,
-        "phone": "0050-7175229",
+        "phone": "050-7175229",
         "department": "R&D"
     },
     "5013432": {
@@ -1196,7 +1196,7 @@ export const licenses = {
         "last_name": "Gelman Biran",
         "car_type": "kia picanto",
         "license": 5015079,
-        "phone": "0054-63333076",
+        "phone": "054-63333076",
         "department": "R&D"
     },
     "5035711": {
@@ -1212,7 +1212,7 @@ export const licenses = {
         "last_name": "Goltz",
         "car_type": "Honda Jazz",
         "license": 5094531,
-        "phone": "0052-2643929",
+        "phone": "052-2643929",
         "department": "Product"
     },
     "5098935": {
@@ -1276,7 +1276,7 @@ export const licenses = {
         "last_name": "Ronen",
         "car_type": "Hyundai Getz",
         "license": 5284762,
-        "phone": "0052-3173764",
+        "phone": "052-3173764",
         "department": "CC"
     },
     "5314858": {
@@ -1284,7 +1284,7 @@ export const licenses = {
         "last_name": "Pen",
         "car_type": "Suzuki SX4",
         "license": 5314858,
-        "phone": "0052-2566824",
+        "phone": "052-2566824",
         "department": "Product"
     },
     "5329333": {
@@ -1292,7 +1292,7 @@ export const licenses = {
         "last_name": "Weissmann",
         "car_type": "Kia Sportage",
         "license": 5329333,
-        "phone": "0052-8084748",
+        "phone": "052-8084748",
         "department": "R&D"
     },
     "5358930": {
@@ -1308,7 +1308,7 @@ export const licenses = {
         "last_name": "Golan",
         "car_type": "Suzuki SX4",
         "license": 5370158,
-        "phone": "0050-8879109",
+        "phone": "050-8879109",
         "department": "Finance"
     },
     "5394172": {
@@ -1316,7 +1316,7 @@ export const licenses = {
         "last_name": "Viderman",
         "car_type": "Chevrolet",
         "license": 5394172,
-        "phone": "0054-5811466",
+        "phone": "054-5811466",
         "department": "R&D"
     },
     "5510337": {
@@ -1324,7 +1324,7 @@ export const licenses = {
         "last_name": "Mazar",
         "car_type": "Hyundai I10",
         "license": 5510337,
-        "phone": "0054-5675496",
+        "phone": "054-5675496",
         "department": "R&D"
     },
     "5511634": {
@@ -1332,7 +1332,7 @@ export const licenses = {
         "last_name": "Zagalsky",
         "car_type": "Subaru XV",
         "license": 5511634,
-        "phone": "0054-2428221",
+        "phone": "054-2428221",
         "department": "Direct"
     },
     "5544079": {
@@ -1348,7 +1348,7 @@ export const licenses = {
         "last_name": "Mishali",
         "car_type": "Skoda Citigo",
         "license": 5546712,
-        "phone": "0050-4580432",
+        "phone": "050-4580432",
         "department": "CC"
     },
     "5587772": {
@@ -1356,7 +1356,7 @@ export const licenses = {
         "last_name": "Kariv",
         "car_type": "Hyundai i30",
         "license": 5587772,
-        "phone": "0050-5858925",
+        "phone": "050-5858925",
         "department": "Solutions & Services"
     },
     "5591361": {
@@ -1364,7 +1364,7 @@ export const licenses = {
         "last_name": "Goldfield",
         "car_type": "Subaru",
         "license": 5591361,
-        "phone": "0050-9701698",
+        "phone": "050-9701698",
         "department": "Client Services"
     },
     "5647037": {
@@ -1372,7 +1372,7 @@ export const licenses = {
         "last_name": "Gonczarowski",
         "car_type": "Hyundai",
         "license": 5647037,
-        "phone": "0054-4954996",
+        "phone": "054-4954996",
         "department": "Finance"
     },
     "5700872": {
@@ -1380,7 +1380,7 @@ export const licenses = {
         "last_name": "Buky",
         "car_type": "Hyundai i10",
         "license": 5700872,
-        "phone": "0052-5205441",
+        "phone": "052-5205441",
         "department": "PAD"
     },
     "5712272": {
@@ -1388,7 +1388,7 @@ export const licenses = {
         "last_name": "Mansurov",
         "car_type": "Hyundai i30",
         "license": 5712272,
-        "phone": "0052-8982874",
+        "phone": "052-8982874",
         "department": "CC"
     },
     "5760113": {
@@ -1396,7 +1396,7 @@ export const licenses = {
         "last_name": "Kosovicz",
         "car_type": "Suzuki Splash",
         "license": 5760113,
-        "phone": "0054-5810033",
+        "phone": "054-5810033",
         "department": "RnD"
     },
     "5780011": {
@@ -1404,7 +1404,7 @@ export const licenses = {
         "last_name": "Lev",
         "car_type": "Alfa Romeo",
         "license": 5780011,
-        "phone": "0054-7566-522",
+        "phone": "054-7566-522",
         "department": "Data"
     },
     "5848234": {
@@ -1412,7 +1412,7 @@ export const licenses = {
         "last_name": "Hulmi Mustacchi",
         "car_type": "Suzuki 2x4",
         "license": 5848234,
-        "phone": "0054-6333923",
+        "phone": "054-6333923",
         "department": "Product"
     },
     "5891274": {
@@ -1428,7 +1428,7 @@ export const licenses = {
         "last_name": "Bacon",
         "car_type": "Suzuki CrossOver",
         "license": 5912434,
-        "phone": "0052 - 2563091",
+        "phone": "052 - 2563091",
         "department": "CBM"
     },
     "5945085": {
@@ -1436,7 +1436,7 @@ export const licenses = {
         "last_name": "Kahn",
         "car_type": "Kia Sportage",
         "license": 5945085,
-        "phone": "0052-5720011",
+        "phone": "052-5720011",
         "department": "TPR"
     },
     "5956313": {
@@ -1452,7 +1452,7 @@ export const licenses = {
         "last_name": "Schnabel",
         "car_type": "Smart",
         "license": 6020374,
-        "phone": "0052-2039921",
+        "phone": "052-2039921",
         "department": "Treasury (Finance)"
     },
     "6037353": {
@@ -1476,7 +1476,7 @@ export const licenses = {
         "last_name": "Schnabel",
         "car_type": "Toyota Corola",
         "license": 6080119,
-        "phone": "0052-2039921",
+        "phone": "052-2039921",
         "department": "Treasury (Finance)"
     },
     "6172579": {
@@ -1484,7 +1484,7 @@ export const licenses = {
         "last_name": "Kamhi",
         "car_type": "Kia Picanto",
         "license": 6172579,
-        "phone": "0052-438-9858",
+        "phone": "052-438-9858",
         "department": ""
     },
     "6179465": {
@@ -1492,7 +1492,7 @@ export const licenses = {
         "last_name": "Calev",
         "car_type": "Mazda 3",
         "license": 6179465,
-        "phone": "0054-5830807",
+        "phone": "054-5830807",
         "department": "PAD"
     },
     "6217069": {
@@ -1500,7 +1500,7 @@ export const licenses = {
         "last_name": "Green",
         "car_type": "Hyundai i20",
         "license": 6217069,
-        "phone": "0054-8061142",
+        "phone": "054-8061142",
         "department": "RnD"
     },
     "6219311": {
@@ -1508,7 +1508,7 @@ export const licenses = {
         "last_name": "Salama",
         "car_type": "Ford Fiesta",
         "license": 6219311,
-        "phone": "0058-5051120",
+        "phone": "058-5051120",
         "department": "CC"
     },
     "6239185": {
@@ -1516,7 +1516,7 @@ export const licenses = {
         "last_name": "Ben Lulu",
         "car_type": "Kia Picanto",
         "license": 6239185,
-        "phone": "00523-696166",
+        "phone": "0523-696166",
         "department": ""
     },
     "6245676": {
@@ -1532,7 +1532,7 @@ export const licenses = {
         "last_name": "Winer",
         "car_type": "Kia Sportage",
         "license": 6251333,
-        "phone": "0050-6792844",
+        "phone": "050-6792844",
         "department": "R&D"
     },
     "6272872": {
@@ -1540,7 +1540,7 @@ export const licenses = {
         "last_name": "Davidovich",
         "car_type": "Hyundai i20",
         "license": 6272872,
-        "phone": "0054-9911981",
+        "phone": "054-9911981",
         "department": "Legal"
     },
     "6320365": {
@@ -1548,7 +1548,7 @@ export const licenses = {
         "last_name": "Arazi",
         "car_type": "Toyota Yaris",
         "license": 6320365,
-        "phone": "0054-323-1019",
+        "phone": "054-323-1019",
         "department": "HR"
     },
     "6325478": {
@@ -1564,7 +1564,7 @@ export const licenses = {
         "last_name": "Katz",
         "car_type": "Hyundai i30 CW",
         "license": 6329169,
-        "phone": "0052-3746502",
+        "phone": "052-3746502",
         "department": "MKT"
     },
     "6331779": {
@@ -1572,7 +1572,7 @@ export const licenses = {
         "last_name": "Vanir",
         "car_type": "Kia",
         "license": 6331779,
-        "phone": "0054-7298190",
+        "phone": "054-7298190",
         "department": "Program"
     },
     "6348073": {
@@ -1580,7 +1580,7 @@ export const licenses = {
         "last_name": "Polonsky",
         "car_type": "Skoda Fabia",
         "license": 6348073,
-        "phone": "0050-7175229",
+        "phone": "050-7175229",
         "department": "R&D"
     },
     "6360064": {
@@ -1588,7 +1588,7 @@ export const licenses = {
         "last_name": "Gross",
         "car_type": "citroen c4 picasso",
         "license": 6360064,
-        "phone": "0052-3346663",
+        "phone": "052-3346663",
         "department": "R&D"
     },
     "6375461": {
@@ -1596,7 +1596,7 @@ export const licenses = {
         "last_name": "Rintzler",
         "car_type": "Honda Civic",
         "license": 6375461,
-        "phone": "0054-3072878",
+        "phone": "054-3072878",
         "department": "Direct"
     },
     "6392733": {
@@ -1604,7 +1604,7 @@ export const licenses = {
         "last_name": "Najun",
         "car_type": "Kia Picanto",
         "license": 6392733,
-        "phone": "0053-337-6926",
+        "phone": "053-337-6926",
         "department": "Marketing"
     },
     "6449676": {
@@ -1612,7 +1612,7 @@ export const licenses = {
         "last_name": "Leitner",
         "car_type": "Seat Ibiza",
         "license": 6449676,
-        "phone": "0054-4309855",
+        "phone": "054-4309855",
         "department": "PnL"
     },
     "6498511": {
@@ -1636,7 +1636,7 @@ export const licenses = {
         "last_name": "Arel",
         "car_type": "KIA Picanto",
         "license": 6531133,
-        "phone": "00524-718457",
+        "phone": "0524-718457",
         "department": "CC"
     },
     "6582784": {
@@ -1652,7 +1652,7 @@ export const licenses = {
         "last_name": "Sherer",
         "car_type": "Hyundai Ioniq",
         "license": 6639755,
-        "phone": "0052-3028006",
+        "phone": "052-3028006",
         "department": "Tech"
     },
     "6677078": {
@@ -1660,7 +1660,7 @@ export const licenses = {
         "last_name": "Krispil",
         "car_type": "Hyundai i10",
         "license": 6677078,
-        "phone": "00544-256688",
+        "phone": "0544-256688",
         "department": "CC"
     },
     "6678275": {
@@ -1676,7 +1676,7 @@ export const licenses = {
         "last_name": "Schnabel",
         "car_type": "Toyota Space Verso",
         "license": 6680252,
-        "phone": "0052-2039921",
+        "phone": "052-2039921",
         "department": "Treasury (Finance)"
     },
     "6715879": {
@@ -1692,7 +1692,7 @@ export const licenses = {
         "last_name": "Rabin",
         "car_type": "Hyundai i20",
         "license": 6717774,
-        "phone": "0058-599-4240",
+        "phone": "058-599-4240",
         "department": "GBT"
     },
     "6760539": {
@@ -1700,7 +1700,7 @@ export const licenses = {
         "last_name": "Limoni",
         "car_type": "Huyndai i20",
         "license": 6760539,
-        "phone": "0050-6070812",
+        "phone": "050-6070812",
         "department": "R&D"
     },
     "6782317": {
@@ -1748,7 +1748,7 @@ export const licenses = {
         "last_name": "Karpasas",
         "car_type": "Hyundai i20",
         "license": 6875274,
-        "phone": "0054-6548758",
+        "phone": "054-6548758",
         "department": "R&D"
     },
     "6880427": {
@@ -1756,7 +1756,7 @@ export const licenses = {
         "last_name": "Frenkel",
         "car_type": "Mazda 323 Lantis",
         "license": 6880427,
-        "phone": "0054-2170725",
+        "phone": "054-2170725",
         "department": "Product"
     },
     "7010561": {
@@ -1764,7 +1764,7 @@ export const licenses = {
         "last_name": "Solomon",
         "car_type": "Hyundai Getz",
         "license": 7010561,
-        "phone": "0050-5481883",
+        "phone": "050-5481883",
         "department": "PAD"
     },
     "7013665": {
@@ -1772,7 +1772,7 @@ export const licenses = {
         "last_name": "Limoni",
         "car_type": "Ford Focuse",
         "license": 7013665,
-        "phone": "0050-6070812",
+        "phone": "050-6070812",
         "department": "R&D"
     },
     "7022565": {
@@ -1780,7 +1780,7 @@ export const licenses = {
         "last_name": "Sela",
         "car_type": "Ford Focus",
         "license": 7022565,
-        "phone": "0052-2972222",
+        "phone": "052-2972222",
         "department": "R&D"
     },
     "7025134": {
@@ -1788,7 +1788,7 @@ export const licenses = {
         "last_name": "Rozeni",
         "car_type": "Mazda 2",
         "license": 7025134,
-        "phone": "0050-8617041",
+        "phone": "050-8617041",
         "department": "CRM"
     },
     "7037235": {
@@ -1804,7 +1804,7 @@ export const licenses = {
         "last_name": "Feldhiem",
         "car_type": "Toyota Corola",
         "license": 7051366,
-        "phone": "0054-7288322",
+        "phone": "054-7288322",
         "department": "Program"
     },
     "7115474": {
@@ -1812,7 +1812,7 @@ export const licenses = {
         "last_name": "Dukarker",
         "car_type": "Kia Ceed",
         "license": 7115474,
-        "phone": "0052-5058586",
+        "phone": "052-5058586",
         "department": "CC"
     },
     "7121579": {
@@ -1820,7 +1820,7 @@ export const licenses = {
         "last_name": "Neuman",
         "car_type": "Toyota Verso",
         "license": 7121579,
-        "phone": "0054-5433990",
+        "phone": "054-5433990",
         "department": "R&D"
     },
     "7129333": {
@@ -1836,7 +1836,7 @@ export const licenses = {
         "last_name": "Karvat",
         "car_type": "Ford Focus",
         "license": 7173169,
-        "phone": "0054-6236671",
+        "phone": "054-6236671",
         "department": "R&D"
     },
     "7188332": {
@@ -1860,7 +1860,7 @@ export const licenses = {
         "last_name": "Rodrik",
         "car_type": "Toyota Corola",
         "license": 7241286,
-        "phone": "0054-6622066",
+        "phone": "054-6622066",
         "department": "Data"
     },
     "7241631": {
@@ -1884,7 +1884,7 @@ export const licenses = {
         "last_name": "Neuman",
         "car_type": "Ford Focus",
         "license": 7258165,
-        "phone": "0054-5433990",
+        "phone": "054-5433990",
         "department": "R&D"
     },
     "7325978": {
@@ -1892,7 +1892,7 @@ export const licenses = {
         "last_name": "Kopeikin",
         "car_type": "Hyundai i25",
         "license": 7325978,
-        "phone": "00545-309702",
+        "phone": "0545-309702",
         "department": "R&D"
     },
     "7340968": {
@@ -1916,7 +1916,7 @@ export const licenses = {
         "last_name": "Berdugo",
         "car_type": "Polo",
         "license": 7429018,
-        "phone": "0052-6956158",
+        "phone": "052-6956158",
         "department": "Marketing"
     },
     "7509870": {
@@ -1924,7 +1924,7 @@ export const licenses = {
         "last_name": "Bar",
         "car_type": "Honda Insight",
         "license": 7509870,
-        "phone": "0052-6500406",
+        "phone": "052-6500406",
         "department": "RnD"
     },
     "7537033": {
@@ -1956,7 +1956,7 @@ export const licenses = {
         "last_name": "Schreider",
         "car_type": "VW polo",
         "license": 7640476,
-        "phone": "0058-7484996",
+        "phone": "058-7484996",
         "department": "Risk"
     },
     "7659567": {
@@ -1964,7 +1964,7 @@ export const licenses = {
         "last_name": "Mikhaltsov",
         "car_type": "Honda Civic",
         "license": 7659567,
-        "phone": "0052-2893095",
+        "phone": "052-2893095",
         "department": "CC"
     },
     "7668060": {
@@ -1972,7 +1972,7 @@ export const licenses = {
         "last_name": "Hershco",
         "car_type": "Hyundai Elantra",
         "license": 7668060,
-        "phone": "0054-6912114",
+        "phone": "054-6912114",
         "department": "CC"
     },
     "7675538": {
@@ -1980,7 +1980,7 @@ export const licenses = {
         "last_name": "Michaeli",
         "car_type": "kia sportage",
         "license": 7675538,
-        "phone": "00544-880062",
+        "phone": "0544-880062",
         "department": "Finance"
     },
     "7690312": {
@@ -1988,7 +1988,7 @@ export const licenses = {
         "last_name": "Alpert",
         "car_type": "Peugeot 5008",
         "license": 7690312,
-        "phone": "0052-2202789",
+        "phone": "052-2202789",
         "department": "Finance"
     },
     "7716557": {
@@ -2012,7 +2012,7 @@ export const licenses = {
         "last_name": "Shemesh",
         "car_type": "Hyundai i30",
         "license": 7785078,
-        "phone": "0054-5219069",
+        "phone": "054-5219069",
         "department": "R&D"
     },
     "7897874": {
@@ -2036,7 +2036,7 @@ export const licenses = {
         "last_name": "Malka",
         "car_type": "Mazda 3",
         "license": 8064962,
-        "phone": "0055-8846980",
+        "phone": "055-8846980",
         "department": "R&D"
     },
     "8074975": {
@@ -2052,7 +2052,7 @@ export const licenses = {
         "last_name": "Ronen",
         "car_type": "Honda Jazz",
         "license": 8096152,
-        "phone": "0052-3206366",
+        "phone": "052-3206366",
         "department": "Risk"
     },
     "8128270": {
@@ -2060,7 +2060,7 @@ export const licenses = {
         "last_name": "Fischer",
         "car_type": "Polo",
         "license": 8128270,
-        "phone": "0054-6610301",
+        "phone": "054-6610301",
         "department": "R&D"
     },
     "8175036": {
@@ -2068,7 +2068,7 @@ export const licenses = {
         "last_name": "Zargari",
         "car_type": "Peugeot 206",
         "license": 8175036,
-        "phone": "0054-3142446",
+        "phone": "054-3142446",
         "department": "R&D"
     },
     "8176530": {
@@ -2076,7 +2076,7 @@ export const licenses = {
         "last_name": "Takagi",
         "car_type": "Citroen C1",
         "license": 8176530,
-        "phone": "0050-5636988",
+        "phone": "050-5636988",
         "department": "CC"
     },
     "8197911": {
@@ -2108,7 +2108,7 @@ export const licenses = {
         "last_name": "Frenkel",
         "car_type": "Toyota corolla",
         "license": 8244081,
-        "phone": "0054-2170725",
+        "phone": "054-2170725",
         "department": "Product"
     },
     "8260564": {
@@ -2116,7 +2116,7 @@ export const licenses = {
         "last_name": "Sanchez",
         "car_type": "Mitsubishi Lancer",
         "license": 8260564,
-        "phone": "0058-6726738",
+        "phone": "058-6726738",
         "department": "PAD"
     },
     "8286733": {
@@ -2124,7 +2124,7 @@ export const licenses = {
         "last_name": "Tatarsky",
         "car_type": "Honda Civic",
         "license": 8286733,
-        "phone": "0052-3450000",
+        "phone": "052-3450000",
         "department": "R&D"
     },
     "8400663": {
@@ -2132,7 +2132,7 @@ export const licenses = {
         "last_name": "Dagan",
         "car_type": "Fiat Panda",
         "license": 8400663,
-        "phone": "0054-6651175",
+        "phone": "054-6651175",
         "department": "IT-OPS"
     },
     "8423968": {
@@ -2140,7 +2140,7 @@ export const licenses = {
         "last_name": "Mirkin",
         "car_type": "Mazda",
         "license": 8423968,
-        "phone": "00504227203",
+        "phone": "0504227203",
         "department": "Data"
     },
     "8490085": {
@@ -2180,7 +2180,7 @@ export const licenses = {
         "last_name": "Nevo",
         "car_type": "Suzuki Swift",
         "license": 8585960,
-        "phone": "0050-7266427",
+        "phone": "050-7266427",
         "department": "PAD"
     },
     "8591554": {
@@ -2188,7 +2188,7 @@ export const licenses = {
         "last_name": "Horovitz",
         "car_type": "Mazda 3",
         "license": 8591554,
-        "phone": "0054-3050872",
+        "phone": "054-3050872",
         "department": "R&D"
     },
     "8610675": {
@@ -2212,7 +2212,7 @@ export const licenses = {
         "last_name": "Regev",
         "car_type": "Chevrolet",
         "license": 8647112,
-        "phone": "0054-5443250",
+        "phone": "054-5443250",
         "department": "Product"
     },
     "8662272": {
@@ -2220,7 +2220,7 @@ export const licenses = {
         "last_name": "Eyal",
         "car_type": "Nissan Tiida",
         "license": 8662272,
-        "phone": "0052-8515251",
+        "phone": "052-8515251",
         "department": "R&D"
     },
     "8691739": {
@@ -2228,7 +2228,7 @@ export const licenses = {
         "last_name": "Nuri",
         "car_type": "Hyundai i30",
         "license": 8691739,
-        "phone": "0054-5893553",
+        "phone": "054-5893553",
         "department": "Risk"
     },
     "8791081": {
@@ -2252,7 +2252,7 @@ export const licenses = {
         "last_name": "Winer",
         "car_type": "Hyundai i20",
         "license": 8930513,
-        "phone": "0050-6792844",
+        "phone": "050-6792844",
         "department": "R&D"
     },
     "8934785": {
@@ -2268,7 +2268,7 @@ export const licenses = {
         "last_name": "Shechtman",
         "car_type": "Chevrolet Malibu",
         "license": 8959361,
-        "phone": "0054-2170071",
+        "phone": "054-2170071",
         "department": "CC"
     },
     "8962165": {
@@ -2276,7 +2276,7 @@ export const licenses = {
         "last_name": "Brandes",
         "car_type": "Mazda 3",
         "license": 8962165,
-        "phone": "0054-6358385",
+        "phone": "054-6358385",
         "department": "CEO Office"
     },
     "8975457": {
@@ -2284,7 +2284,7 @@ export const licenses = {
         "last_name": "Perry",
         "car_type": "Toyota corolla",
         "license": 8975457,
-        "phone": "0050-9212256",
+        "phone": "050-9212256",
         "department": "Risk"
     },
     "8988261": {
@@ -2292,7 +2292,7 @@ export const licenses = {
         "last_name": "Israeli",
         "car_type": "Chevrolet Optra",
         "license": 8988261,
-        "phone": "0054-8150064",
+        "phone": "054-8150064",
         "department": "R&D"
     },
     "9006835": {
@@ -2300,7 +2300,7 @@ export const licenses = {
         "last_name": "Tal",
         "car_type": "Golf",
         "license": 9006835,
-        "phone": "0054-4484488",
+        "phone": "054-4484488",
         "department": "Sales"
     },
     "9139811": {
@@ -2332,7 +2332,7 @@ export const licenses = {
         "last_name": "Saar",
         "car_type": "Mitsubishi Lancer",
         "license": 9281063,
-        "phone": "0050-5100070",
+        "phone": "050-5100070",
         "department": "CAD"
     },
     "9330018": {
@@ -2340,7 +2340,7 @@ export const licenses = {
         "last_name": "Vasyliev",
         "car_type": "VW polo",
         "license": 9330018,
-        "phone": "0058-713-6663",
+        "phone": "058-713-6663",
         "department": "CC"
     },
     "9421365": {
@@ -2348,7 +2348,7 @@ export const licenses = {
         "last_name": "Braginski",
         "car_type": "Mazda 3",
         "license": 9421365,
-        "phone": "0052-4213433",
+        "phone": "052-4213433",
         "department": "Product"
     },
     "9474981": {
@@ -2356,7 +2356,7 @@ export const licenses = {
         "last_name": "Rotberg",
         "car_type": "Toyota Yaris",
         "license": 9474981,
-        "phone": "0054-7879996",
+        "phone": "054-7879996",
         "department": "Project"
     },
     "9479033": {
@@ -2364,7 +2364,7 @@ export const licenses = {
         "last_name": "Oknin",
         "car_type": "Hyundai i25",
         "license": 9479033,
-        "phone": "0050-6573719",
+        "phone": "050-6573719",
         "department": "PS"
     },
     "9691638": {
@@ -2372,7 +2372,7 @@ export const licenses = {
         "last_name": "Boter",
         "car_type": "kia sportage",
         "license": 9691638,
-        "phone": "0054-2428290",
+        "phone": "054-2428290",
         "department": "R&D"
     },
     "9693411": {
@@ -2380,7 +2380,7 @@ export const licenses = {
         "last_name": "Bar",
         "car_type": "Kia Picanto",
         "license": 9693411,
-        "phone": "0050-8217509",
+        "phone": "050-8217509",
         "department": "R&D"
     },
     "9747065": {
@@ -2388,7 +2388,7 @@ export const licenses = {
         "last_name": "Hugim",
         "car_type": "Mazda",
         "license": 9747065,
-        "phone": "0054-7820035",
+        "phone": "054-7820035",
         "department": "Product"
     },
     "9801567": {
@@ -2396,7 +2396,7 @@ export const licenses = {
         "last_name": "Gur",
         "car_type": "Suzuki Grand Vitara",
         "license": 9801567,
-        "phone": "0050-7869741",
+        "phone": "050-7869741",
         "department": "R&D"
     },
     "9803064": {
@@ -2404,7 +2404,7 @@ export const licenses = {
         "last_name": "Bar-Ner",
         "car_type": "Suzuki",
         "license": 9803064,
-        "phone": "0054-7782350",
+        "phone": "054-7782350",
         "department": "Program"
     },
     "9845267": {
@@ -2420,7 +2420,7 @@ export const licenses = {
         "last_name": "Strulov",
         "car_type": "Suzuki SX4",
         "license": 9858267,
-        "phone": "0052-3508758",
+        "phone": "052-3508758",
         "department": "R&D"
     },
     "9863686": {
@@ -2428,7 +2428,7 @@ export const licenses = {
         "last_name": "Zelena",
         "car_type": "Honda Civic Tourer",
         "license": 9863686,
-        "phone": "0054-4950370",
+        "phone": "054-4950370",
         "department": "Risk"
     },
     "9916628": {
@@ -2444,7 +2444,7 @@ export const licenses = {
         "last_name": "Aaronberg",
         "car_type": "Toyota CHR",
         "license": 11881301,
-        "phone": "0058-6010522",
+        "phone": "058-6010522",
         "department": "TPR"
     },
     "13039101": {
@@ -2452,7 +2452,7 @@ export const licenses = {
         "last_name": "Brandes",
         "car_type": "Kia Carnival",
         "license": 13039101,
-        "phone": "0054-6358385",
+        "phone": "054-6358385",
         "department": "CEO Office"
     },
     "13607901": {
@@ -2484,7 +2484,7 @@ export const licenses = {
         "last_name": "Tolsteliov",
         "car_type": "VW Golf",
         "license": 26059401,
-        "phone": "0054-7535761",
+        "phone": "054-7535761",
         "department": "CC"
     },
     "29545901": {
@@ -2508,7 +2508,15 @@ export const licenses = {
         "last_name": "Avruch",
         "car_type": "Seat Ibiza",
         "license": 35011601,
-        "phone": "0052-6648797",
+        "phone": "052-6648797",
         "department": "Data"
     },
+    "5321668":{
+        "first_name": "John",
+        "last_name": "Doe",
+        "car_type": "Honda Civic",
+        "license": 5321668,
+        "phone": "053-6648795",
+        "department": "Data"
+    }
 };
