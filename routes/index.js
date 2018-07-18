@@ -24,8 +24,8 @@ const formatTime =(seconds)=>{
 /* GET home page. */
 router.get('/', function (req, res) {
     state.fetch().then(s=>{
-       const when = formatTime(s.next +100);
-        const  time = formatTime(s.for +100);
+       const when = formatTime(s.next *60);
+        const  time = formatTime(s.time *60);
         res.render('index', { title: 'IsTheParkingOpen.com',state:s.state || false,when,time});
     });
 
