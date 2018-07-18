@@ -26,7 +26,7 @@ router.get('/', function (req, res) {
     state.fetch().then(s=>{
        const when = formatTime(s.next *60);
         const  time = formatTime(s.time *60);
-        res.render('index', { title: 'IsTheParkingOpen.com',state:s.state || false,when,time});
+        res.render('index', { title: 'IsTheParkingOpen.com',state:s.state || false,when,time,value:s.value});
     });
 
 });

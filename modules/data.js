@@ -27,7 +27,18 @@ export const state = mongoose.model("State",new Schema({
 state.fetch =  ()=>{
     return new Promise((success,error)=>{
         state.findOne().exec().then(s=>{
-            const p = predict(new Date());
+            let p = predict(new Date());
+            if((!!p.value) !== (!!s.state)&& p.next <= 5 )
+            {
+
+                //try again
+                const sec = predict(new Date(Date.now()+ 1000 * 1000 * 60 * p.next) );
+                if((!!sec.value )===(!!s.state)) {
+                    p = Object.assign({},sec,{next:sec.next + p.next});
+                }
+
+            }
+
             //{next: parseInt(Math.random() * 3 * 60 * 60  ),for:parseInt(Math.random() *60 *60)}
             success(Object.assign(s||{},p));
         }).catch(error);

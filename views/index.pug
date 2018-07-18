@@ -3,14 +3,20 @@ extends layout
 block content
   div.content
     div.main=state?'Yes': 'No'
-    if(!state)
-      div.predict
-        |We predict it will be open in&nbsp;
-        strong=when
-        |&nbsp; for&nbsp;
-        strong=time
+    if (!!state !== !!value)
+      if(state)
+        div.predict Hurry up, we predict it to close soon
+      else
+        div.predict We believe it will open soon
     else
-      div.predict
-        | We predict it will be open for another&nbsp;
-        strong=when
+      if(!state)
+        div.predict
+          |We predict it will be open in&nbsp;
+          strong=when
+          |&nbsp; for&nbsp;
+          strong=time
+      else
+        div.predict
+          | We predict it will be open for another&nbsp;
+          strong=when
 
